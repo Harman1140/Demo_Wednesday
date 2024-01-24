@@ -7,6 +7,7 @@ package git_demo_wednesday;
 /**
  *
  * @author thinkpad
+ * @modifier abcd
  */
 public class demo_wednesday {
     
